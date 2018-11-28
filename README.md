@@ -10,7 +10,9 @@
 App is written solely in the Java Programming Language
 
 App conforms to common standards found in the Android Nanodegree General Project Guidelines 
-NOTE: It is okay if the app does not handle rotation properly or does not restore the data using onSaveInstanceState/onRestoreInstanceState)
+
+NOTE: It is okay if the app does not handle rotation properly or does not restore the data 
+using onSaveInstanceState/onRestoreInstanceState)
 
 App utilizes stable release versions of all libraries, Gradle, and Android Studio.
 
